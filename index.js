@@ -11,5 +11,5 @@ function writeToFile(fileName, data) {
 
         async function init() {
           console.log("Starting init");
-        var svgString = "";
+        
         }
